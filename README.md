@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an AI developer and work on Computer vision projects
+I am an AI developer and work on Computer vision projects.
 <!--
 **nupurmis/nupurmis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
